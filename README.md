@@ -27,12 +27,12 @@ fixed most bugs ..
 
 <div align="center">
     <h2>Javascript</h2>
-    <img src="https://raw.githubusercontent.com/AaBbdev29/Darkplusmoonlite/Darkplusmoonlite-0.09/screenshots/reactjs.jpg" alt="Moon in React"/>
+    <img src="https://raw.githubusercontent.com/AaBbdev29/DarkPlusPurpleMoontheme/main/js.png" alt="Moon in js"/>
 </div>
 ############
  <br/>
 <div align="center">
     <h2>Python</h2>
-    <img src="https://raw.githubusercontent.com/AaBbdev29/Darkplusmoonlite/Darkplusmoonlite-0.09/screenshots/python.jpg" alt="Moon in python"/>
+    <img src="https://raw.githubusercontent.com/AaBbdev29/DarkPlusPurpleMoontheme/main/py.png" alt="Moon in python"/>
 </div>
 
