@@ -1,0 +1,35 @@
+{
+  "name": "DarkPlusPurpleMoontheme",
+  "publisher": "moondevaa",
+  "displayName": "Dark Plus Purple Moon theme",
+  "description": "dark theme with attarctive colores moon like",
+  "version": "0.1.0",
+  "engines": {
+    "vscode": "^1.78.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "Moon","Purple","Dark","Plus","theme"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "#"
+  },
+  "icon": "moon.jpg", 
+  "theme": "dark",
+  "license": "SEE LICENSE IN LICENSE.txt",
+  "contributes": {
+    "themes": [
+      {
+        "label": "Dark Plus Purple Moon theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/dark-plus-purple-moon-theme-color-theme.json"
+      }
+    ]
+  }
+  ,"scripts": {
+    "deploy": "vsce publish --yarn"
+  }
+}
